@@ -1,3 +1,5 @@
+# ARTIK CALİSMİYOR
+
 # Twitter-data-class
 Twitter üzerinden takipçi sayısı, twet sayııs, takip sayısı ve son postu rahatlık ile çekebilirsiniz. 
 ## twitter2.php
